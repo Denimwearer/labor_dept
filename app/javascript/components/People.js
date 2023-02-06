@@ -1,3 +1,7 @@
+import Person from './Person'
+import PeopleList from './PeopleList'
+import PersonForm from './PersonForm'
+
 class People extends React.Component {
   constructor (props){
   super(props)
